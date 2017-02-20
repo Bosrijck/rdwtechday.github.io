@@ -1,5 +1,5 @@
 ---
 naam: Roelof Luinge
-rol: Engineer
+rol: Chief Fun Officer
 ref: roelof-luinge
 ---
